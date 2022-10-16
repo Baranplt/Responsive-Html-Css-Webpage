@@ -1,0 +1,24 @@
+.btn-primary {
+
+
+    --bs-btn-bg: var(--bs-primary);
+    --bs-btn-border-color: var(--bs-primary);
+
+    --bs-btn-hover-color: var(--bs-primary);
+    --bs-btn-hover-bg: #fff;
+    --bs-btn-hover-border-color: var(--bs-primary);
+}
+
+.btn-outline-success {
+    --bs-btn-color: var(--bs-primary);
+    --bs-btn-border-color: var(--bs-primary);
+    --bs-btn-hover-bg: var(--bs-primary);
+}
+
+.btn {
+    padding: 16px 45px;
+}
+
+.btn-md {
+    padding: 16px 24px !important;
+}

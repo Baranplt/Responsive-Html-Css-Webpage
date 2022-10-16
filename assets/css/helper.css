@@ -1,0 +1,42 @@
+html,
+body {
+    position: relative;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.containerfull-bg {
+
+
+    background: #F5F9F9;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.color-f4 {
+    color: #F4F4F4;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.mt-120 {
+    margin-top: 120px;
+}
+
+.mt-300 {
+    margin-top: 300px;
+}
+
+.pc {
+    padding: 15px 27px;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    border-radius: 12px;
+}

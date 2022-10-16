@@ -1,0 +1,42 @@
+.text-xxxl {
+
+    font-size: 63px;
+    line-height: 80px;
+}
+
+.text-xxl {
+    font-size: 40px;
+    line-height: 54px;
+}
+
+.text-xl {
+    font-size: 32px;
+    line-height: 44px;
+}
+
+.text-lg {
+    font-size: 20px;
+    line-height: 27px;
+
+}
+
+.text-md {
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.fw-600 {
+    font-weight: 600 !important;
+}
+
+.fw-700 {
+    font-weight: 700 !important;
+}

@@ -1,0 +1,15 @@
+@import url(helper.css);
+@import url(font.css);
+@import url(variable.css);
+@import url(components/buttons.css);
+@import url(common/header.css);
+@import url(common/hero.css);
+@import url(common/services.css);
+@import url(common/claned.css);
+@import url(common/magic.css);
+@import url(common/pricing.css);
+@import url(common/happy.css);
+@import url(common/best-services.css);
+@import url(common/contact.css);
+@import url(common/footer.css);
+@import url(media.css);

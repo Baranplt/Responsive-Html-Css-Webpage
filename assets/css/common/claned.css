@@ -1,0 +1,27 @@
+.claned-left {
+    width: 100%;
+
+}
+
+.claned-left-img {
+    width: 658px;
+    height: 571px;
+}
+
+.claned-left img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    box-sizing: border-box;
+
+    border-radius: 291px 4px 4px 4px;
+}
+
+.claned-left-badge {
+
+    width: 102px;
+    height: 102px;
+    background: #FECE63;
+    border-radius: 0px 0px 1000px 0px;
+    left: 0;
+}

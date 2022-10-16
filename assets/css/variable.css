@@ -1,0 +1,30 @@
+:root {
+
+    --bs-primary: #0A6259;
+    --bs-primary-rgb: 10, 98, 89;
+
+    --bs-secondary: #FD6F63;
+    --bs-secondary-rgb: 253, 111, 99;
+
+
+
+
+}
+
+
+.btn-primary:active {
+    background-color: var(--bs-primary) !important;
+
+}
+
+.btn-outline-success:active {
+    background-color: var(--bs-primary) !important;
+}
+
+.text-gray {
+    color: #646464 !important;
+}
+
+.bg-green {
+    background-color: #0A6259;
+}

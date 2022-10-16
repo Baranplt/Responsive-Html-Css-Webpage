@@ -1,0 +1,17 @@
+.contact .form input,
+textarea {
+
+    background: #FAFAFA;
+    border-radius: 4px;
+
+}
+
+.contact {
+    padding: 150px 0;
+}
+
+.contact .form {
+    padding: 24px;
+    border-radius: 12px;
+    background-color: white;
+}

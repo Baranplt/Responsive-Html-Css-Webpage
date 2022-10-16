@@ -1,0 +1,18 @@
+.comment-card {
+    padding: 48px 32px;
+    border: 1px solid #F2F2F2;
+    border-radius: 12px;
+}
+
+.comment-card .desc {
+    border-bottom: 1px solid #F2F2F2;
+    ;
+}
+
+.point i {
+    color: yellow;
+}
+
+.comment-card-icon {
+    top: -30px;
+}
